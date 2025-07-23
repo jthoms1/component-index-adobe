@@ -11,6 +11,14 @@
   },
   "dependencies": {
     "@adobe/react-spectrum": "^3.43.0",
+    "@react-spectrum/avatar": "^3.0.24",
+    "@react-spectrum/card": "^3.0.0-alpha.46",
+    "@react-spectrum/combobox": "^3.16.0",
+    "@react-spectrum/divider": "^3.5.25",
+    "@react-spectrum/icon": "^3.8.7",
+    "@react-spectrum/layout": "^3.6.17",
+    "@react-spectrum/text": "^3.5.18",
+    "@react-spectrum/view": "^3.6.21",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
